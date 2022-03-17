@@ -11,5 +11,4 @@ cd %~dp0
 cls
 
 SRBMiner-MULTI.exe --algorithm panthera --pool de.scala.herominers.com:1190 --wallet Svm9SKUqDCDVBv7ukmXd3gJyMDDGnhFG3JfnewyTMYTrKEywF7yzKGFixapJE3icjnXyE7PzoD5fX2cqNCiZeJ5W2PnNRcvbX --password YOUORKER_NAME
---background
 pause
